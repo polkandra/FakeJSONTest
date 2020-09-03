@@ -28,5 +28,110 @@
             "createdAt": 0,
             "updatedAt": 0
         }
+    ],
+    "soundsBackground": [
+        {
+            "image": "https://i.imgur.com/5nAyqHJ.jpg",
+            "title": "Море"
+           
+        },
+        {
+           "image": "https://i.imgur.com/QK2h2G8.jpg",
+           "title": "Лес"
+           
+        },
+        {
+            "image": "https://i.imgur.com/vwmHuAZ.jpg",
+            "title": "Ветер"   
+        },
+        {
+           "image": "https://i.imgur.com/IeXeREs.jpg",
+            "title": "Костер"
+        },
+        
+         {
+           "image": "https://i.imgur.com/wtHvfSq.jpg",
+            "title": "Дождь"
+        },
+         {
+           "image": "https://i.imgur.com/mm3YgvO.jpg",
+            "title": "Буря"
+        },
+        {
+           "image": "https://i.imgur.com/UAyQN6x.jpg",
+            "title": "Поезд"
+        },
+        {
+           "image": "https://i.imgur.com/cJCc1XB.jpg",
+            "title": "Дорога"
+        },
+        {
+           "image": "https://i.imgur.com/ThFnCxt.jpgg",
+            "title": "Улица"
+        }
+    ],
+    
+    "background": [
+        {
+            "image": "https://i.imgur.com/Z4EMlvH.jpg",
+           
+        },
+        {
+            "image": "https://i.imgur.com/6MpRSIT.jpg",
+           
+        },
+        {
+            "image": "https://i.imgur.com/tcZ6GeG.jpg",
+           
+        },
+        {
+            "image": "https://i.imgur.com/zN15mGY.jpg",
+  
+        },
+        {
+            "image": "https://i.imgur.com/I5dtdTE.jpg",
+           
+        },
+        {
+            "id": "https://i.imgur.com/K1DjwHC.jpg",
+           
+        }
     ]
+}
+
+
+
+
+
+
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }

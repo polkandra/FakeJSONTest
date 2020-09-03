@@ -1,0 +1,61 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 0,
+            "pinId": 0,
+            "address": "м. Автозаводска Ленинская Слобода ул., 19",
+            "createdAt": 0,
+            "updatedAt": 0,
+            "pin": {
+                "id": 0,
+                "latitude": 55.7684474,
+                "longitude": 37.6071498,
+                "createdAt": 0,
+                "updatedAt": 0
+            }
+        },
+        {
+            "id": 0,
+            "pinId": 0,
+            "address": "м. Автозаводска Ленинская Слобода ул., 19",
+            "createdAt": 0,
+            "updatedAt": 0,
+            "pin": {
+                "id": 0,
+                "latitude": 55.7601115,
+                "longitude": 37.6386014,
+                "createdAt": 0,
+                "updatedAt": 0
+            }
+        },
+        {
+            "id": 0,
+            "pinId": 0,
+            "address": "м. Автозаводска Ленинская Слобода ул., 19",
+            "createdAt": 0,
+            "updatedAt": 0,
+            "pin": {
+                "id": 0,
+                "latitude": 55.763009,
+                "longitude": 37.5939695,
+                "createdAt": 0,
+                "updatedAt": 0
+            }
+        },
+        {
+            "id": 0,
+            "pinId": 0,
+            "address": "м. Автозаводска Ленинская Слобода ул., 19",
+            "createdAt": 0,
+            "updatedAt": 0,
+            "pin": {
+                "id": 0,
+                "latitude": 55.7720864,
+                "longitude": 37.566847,
+                "createdAt": 0,
+                "updatedAt": 0
+            }
+        }
+    ]
+}

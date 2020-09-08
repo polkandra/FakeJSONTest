@@ -2,42 +2,50 @@
     "soundsBackground": [
         {
             "image": "https://i.imgur.com/5nAyqHJ.jpg",
-            "title": "Море"
+            "title": "Море",
+            "track": "https://od.lk/s/NjRfMTg0MTI4OTdf/sea.mp3"
            
         },
         {
            "image": "https://i.imgur.com/QK2h2G8.jpg",
-           "title": "Лес"
-           
+           "title": "Лес",
+           "track": "https://od.lk/s/NjRfMTg0MTMwMDRf/forest.m4a"  
         },
         {
             "image": "https://i.imgur.com/vwmHuAZ.jpg",
-            "title": "Ветер"   
+            "title": "Ветер",
+            "track": "https://od.lk/s/NjRfMTg0MTMxNTJf/wind.mp3"
         },
         {
            "image": "https://i.imgur.com/IeXeREs.jpg",
-            "title": "Костер"
+            "title": "Костер",
+            "track": "https://od.lk/s/NjRfMTg0MTMyMzNf/fire.mp3"
         },
         
          {
            "image": "https://i.imgur.com/wtHvfSq.jpg",
-            "title": "Дождь"
+            "title": "Дождь",
+            "track": "https://od.lk/s/NjRfMTg0MTI5MDNf/rain.mp3"
         },
          {
            "image": "https://i.imgur.com/mm3YgvO.jpg",
-            "title": "Буря"
+            "title": "Буря",
+            "track": "https://od.lk/s/NjRfMTg0MTM0NDBf/wintwrStorm.mp3"
         },
         {
            "image": "https://i.imgur.com/UAyQN6x.jpg",
-            "title": "Поезд"
+            "title": "Поезд",
+            "track": "https://od.lk/s/NjRfMTg0MTMzNjZf/train.mp3"
         },
         {
            "image": "https://i.imgur.com/cJCc1XB.jpg",
-            "title": "Дорога"
+            "title": "Дорога",
+            "track": "https://od.lk/s/NjRfMTg0MTMzNjhf/road.mp3"
         },
         {
            "image": "https://i.imgur.com/ThFnCxt.jpgg",
-            "title": "Улица"
+            "title": "Улица",
+            "track": "https://od.lk/s/NjRfMTg0MTMzNzhf/street.mp3"
         }
     ],
     

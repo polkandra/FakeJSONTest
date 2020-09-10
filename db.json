@@ -74,6 +74,63 @@
             "image": "https://i.imgur.com/K1DjwHC.jpg"
            
         }
+    ],
+    
+    "toStart": [
+        {
+            "title": "Первая сессия",
+            "track": "https://od.lk/s/NjRfMTg0MTI4OTdf/sea.mp3"
+           
+        },
+        {
+            "title": "Вторая сессия",
+            "duration": "4 мин.",
+            "track": "https://od.lk/s/NjRfMTg0MTY4MzJf/forest.mp3"  
+           
+        },
+        {
+            "title": "Третья сессия",
+            "duration": "4 мин.",
+            "track": "https://od.lk/s/NjRfMTg0MTMxNTJf/wind.mp3"
+           
+        },
+        {
+            "title": "Четвертая сессия",
+            "duration": "4 мин.",
+            "track": "https://od.lk/s/NjRfMTg0MTMyMzNf/fire.mp3"
+  
+        },
+        {
+             "title": "Пятая сессия",
+            "duration": "4 мин.",
+             "track": "https://od.lk/s/NjRfMTg0MTI5MDNf/rain.mp3"
+           
+        },
+        {
+            "title": "Шестая сессия",
+            "duration": "4 мин.",
+            "track": "https://od.lk/s/NjRfMTg0MTM0NDBf/wintwrStorm.mp3"
+           
+        },
+         {
+            "title": "Седьмая сессия",
+             "duration": "4 мин.",
+             "track": "https://od.lk/s/NjRfMTg0MTMzNjZf/train.mp3"
+           
+        },
+         {
+            "title": "Восьмая сессия",
+             "duration": "4 мин.",
+            "track": "https://od.lk/s/NjRfMTg0MTMzNjhf/road.mp3"
+           
+        },
+         {
+            "title": "Девятая сессия",
+             "duration": "4 мин.",
+            "track": "https://od.lk/s/NjRfMTg0MTMzNzhf/street.mp3"
+           
+        }
+        
     ]
 }
 
